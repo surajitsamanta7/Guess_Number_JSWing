@@ -1,0 +1,1 @@
+setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
